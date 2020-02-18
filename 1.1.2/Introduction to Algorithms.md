@@ -1,4 +1,4 @@
-# 1.1.2 Introduction to Algorithms (120 minutes)
+# 1.1.2 Introduction to Algorithms
 
 ## Designing Algorithms and Writing Pseudocode
 Remember the steps of solving an algorithm:
