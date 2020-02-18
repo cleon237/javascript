@@ -16,6 +16,7 @@ On a piece of paper write out the steps to solving each of the problems.
 1. Given a list of positive numbers [3, 5, 7, 1, 6], return the largest number in the list.
 
 2. You are trying to get from point B to point C. You can only move one block at a time. The directions you can move are up, down, left right. Write an algorithm to get from point B to point C.
+![alt-text](https://github.com/generation-org/javascript/blob/master/1.1.2/Screen%20Shot%202020-02-17%20at%204.10.23%20PM.png "Diagram")
 
 3. 15 people are waiting in line for the store. There are 3 cashiers (Marie, Tomas, and Marco) who are available.
    Marco is new so he helps 1 person out for every 2 people that Marie helps.
