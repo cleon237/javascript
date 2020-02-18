@@ -1,6 +1,6 @@
 # 1.1.2 Introduction to Algorithms (120 minutes)
 
-Designing Algorithms and Writing Pseudocode
+## Designing Algorithms and Writing Pseudocode
 Remember the steps of solving an algorithm:
 
 ```
@@ -25,7 +25,7 @@ On a piece of paper write out the steps to solving each of the problems.
 ### Variables and Primitive types
 
 1. Go to the [repl.it](https://repl.it/@DebbieLy/Variables-and-Primitives).
-2. Open up the file, read the instructions, and match up the correct primitives for each of the variables.
+2. Read the instructions, and match up the correct primitives for each of the variables.
 3. Uncomment and do one exercise at a time. 
 3. Run when you are ready to check if your answer is correct.
 4. You are done when all the tests equal true.
