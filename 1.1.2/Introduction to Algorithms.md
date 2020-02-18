@@ -26,10 +26,11 @@ On a piece of paper write out the steps to solving each of the problems.
 ### Variables and Primitive types
 
 1. Go to the [repl.it](https://repl.it/@DebbieLy/Variables-and-Primitives).
-2. Read the instructions, and match up the correct primitives for each of the variables.
-3. Uncomment and do one exercise at a time. 
-3. Run when you are ready to check if your answer is correct.
-4. You are done when all the tests equal true.
+2. Create a fork of the repl.it.
+3. Read the instructions, and match up the correct primitives for each of the variables.
+4. Uncomment and do one exercise at a time. 
+5. Run when you are ready to check if your answer is correct.
+6. You are done when all the tests equal true.
 
 ### Taking in user input exercises
 
