@@ -4,11 +4,13 @@
 
 1. Open a repl.it Javascript page and call it Algorithms Introduction Exercise 1.
 2. Write a program where a user enters the number of tasks they have completed. The program returns one of the following labels to the console:
+```
 **Failed**
 **Insufficient**
 **Good**
 **Excellent**
 **Error**
+```
 
 based on the conditions:
 * **Failed** if they scored 6 or less
