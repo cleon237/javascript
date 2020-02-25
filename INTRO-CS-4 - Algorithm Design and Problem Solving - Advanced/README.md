@@ -40,6 +40,14 @@ The given array is  `[3, 5, 7, 1, 6]`
 The largest number is 7.
 
 #### Exercise #5
+```
+var student1Courses = ['Math', 'English', 'Programming'];
+var student2Courses = ['Geography', 'Spanish', 'Programming'];
+```
+Create a program that loops over the 2 arrays and if there are any common courses print them out to the console.
+
+
+#### Exercise #6
 For each of the exercises below, assume you are starting with the following people array.
 
 `var people = ["Maria", "Dani", "Luis", "Juan", "Camila"];`
@@ -62,4 +70,52 @@ Write a program to sort a list of numbers in descending order (from highest to l
 #### Exercise #2
 Write a program to sort a list of names alphabetically.
 
+#### Exercise #3
+Write a program to ...
+
 ## Code Refactoring & Fixing Code
+
+#### Exercise #1
+1. Code and paste the code below into a repl.it (set to Javascript).
+2. Make sure to run the program the understand the output.
+3. Find ways to improve the code and make it clearer to understand.
+
+```
+function someFunction(list) {
+  if (list.length === 0) {
+    return 0;
+  }
+  
+  return list.length;
+}
+```
+
+#### Exercise #2
+1. Code and paste the code below into a repl.it (set to Javascript).
+2. Make sure to run the program the understand the output.
+3. Find ways to improve the code and make it clearer to understand.
+
+```
+
+```
+
+#### Exercise #3
+*Step 1*
+Write a program that takes in two lists and returns the greatest number out of the two lists. 
+Hint: call the function from Array Exercise #4 (make sure that Array Exercise #4 returns a single number - the greatest number in the list).
+
+*Step 2*
+1. Find a partner. 
+2. Exchange your code. 
+3. Read your partner's code and suggest improvements on how you would refactor their code.
+4. Test your partner's code for correctness (does it give the correct output), if it does not give the correct output, work together to fix the code.
+
+## Additional Exercises
+
+#### Arrays
+```
+var values1= ['Apple', 1, false];
+var values2 = ['Fries', 2 ,true];
+var values3 = ['Mars', 9, 'Apple'];
+```
+Create a function that compares the 3 arrays and find any common elements. Print out the common elements.
