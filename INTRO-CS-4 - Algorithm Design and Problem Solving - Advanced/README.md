@@ -70,9 +70,6 @@ Write a program to sort a list of numbers in descending order (from highest to l
 #### Exercise #2
 Write a program to sort a list of names alphabetically.
 
-#### Exercise #3
-Write a program to ...
-
 ## Code Refactoring & Fixing Code
 
 #### Exercise #1
@@ -131,6 +128,7 @@ function gradeLabel(grade) {
 
 #### Exercise #3
 *Step 1*
+
 Write a program that takes in two lists and returns the greatest number out of the two lists. 
 Hint: call the function from Array Exercise #4 (make sure that Array Exercise #4 returns a single number - the greatest number in the list).
 
