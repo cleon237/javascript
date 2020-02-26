@@ -1,14 +1,20 @@
 # INTRO-CS-4 - Algorithm Design and Problem Solving - Advanced
 
-### Class Exercises
+## Class Exercises
 
 #### Exercise #1
+
 Write a program that takes in an array of numbers and returns the largest number in the list.
 Example:
 The given array is  `[3, 5, 7, 1, 6]`
 The largest number is 7.
 
 #### Exercise #2
+
+Write a program to sort a list of numbers in descending order (from highest to lowest).
+
+#### Exercise #3
+
 *Step 1*
 
 Write a program that takes in two lists and returns the greatest number out of the two lists. 
@@ -21,9 +27,9 @@ Hint: call the function from Class Exercise #1 (Exercise #1 should return a sing
 4. Test your partner's code for correctness (does it give the correct output), if it does not give the correct output, work together to fix the code.
 
 
-### Practice Exercises
+## Practice Exercises
 
-## Arrays
+### Arrays
 
 #### Exercise #1 
 Open up a blank repl.it set to Javascript. Copy the code below into your workspace:
@@ -79,15 +85,12 @@ For each of the exercises below, assume you are starting with the following peop
 
 At the end of the exercise, there should be 4 people in the array.
 
-## Sorting
+### Sorting
 
 #### Exercise #1
-Write a program to sort a list of numbers in descending order (from highest to lowest).
-
-#### Exercise #2
 Write a program to sort a list of names alphabetically.
 
-## Code Refactoring & Fixing Code
+### Code Refactoring & Fixing Code
 
 #### Exercise #1
 1. Code and paste the code below into a repl.it (set to Javascript).
@@ -143,7 +146,7 @@ function gradeLabel(grade) {
 
 ```
 
-## Additional Exercises
+### Additional Exercises
 
 #### Arrays
 ```
