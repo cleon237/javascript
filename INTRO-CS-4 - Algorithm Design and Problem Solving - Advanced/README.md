@@ -1,5 +1,28 @@
 # INTRO-CS-4 - Algorithm Design and Problem Solving - Advanced
 
+### Class Exercises
+
+#### Exercise #1
+Write a program that takes in an array of numbers and returns the largest number in the list.
+Example:
+The given array is  `[3, 5, 7, 1, 6]`
+The largest number is 7.
+
+#### Exercise #2
+*Step 1*
+
+Write a program that takes in two lists and returns the greatest number out of the two lists. 
+Hint: call the function from Class Exercise #1 (Exercise #1 should return a single number - the greatest number in the list).
+
+*Step 2*
+1. Find a partner. 
+2. Exchange your code. 
+3. Read your partner's code and suggest improvements on how you would refactor their code.
+4. Test your partner's code for correctness (does it give the correct output), if it does not give the correct output, work together to fix the code.
+
+
+### Practice Exercises
+
 ## Arrays
 
 #### Exercise #1 
@@ -34,12 +57,6 @@ The sum is 10.
 The product is 24.
 
 #### Exercise #4
-Write a program that takes in an array of numbers and returns the largest number in the list.
-Example:
-The given array is  `[3, 5, 7, 1, 6]`
-The largest number is 7.
-
-#### Exercise #5
 ```
 var student1Courses = ['Math', 'English', 'Programming'];
 var student2Courses = ['Geography', 'Spanish', 'Programming'];
@@ -47,7 +64,7 @@ var student2Courses = ['Geography', 'Spanish', 'Programming'];
 Create a program that loops over the 2 arrays and if there are any common courses print them out to the console.
 
 
-#### Exercise #6
+#### Exercise #5
 For each of the exercises below, assume you are starting with the following people array.
 
 `var people = ["Maria", "Dani", "Luis", "Juan", "Camila"];`
@@ -125,18 +142,6 @@ function gradeLabel(grade) {
 
 
 ```
-
-#### Exercise #3
-*Step 1*
-
-Write a program that takes in two lists and returns the greatest number out of the two lists. 
-Hint: call the function from Array Exercise #4 (make sure that Array Exercise #4 returns a single number - the greatest number in the list).
-
-*Step 2*
-1. Find a partner. 
-2. Exchange your code. 
-3. Read your partner's code and suggest improvements on how you would refactor their code.
-4. Test your partner's code for correctness (does it give the correct output), if it does not give the correct output, work together to fix the code.
 
 ## Additional Exercises
 
