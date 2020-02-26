@@ -42,8 +42,8 @@ Complete exercise in the [repl.it](https://repl.it/@DebbieLy/User-input-prompt).
 
 based on the conditions:
 * **Failed** if they scored 6 or less
-* **Insufficient** if they scored > 6 but less than 9. (6 included)
-* **Good** if they scored > 9 but less than 14. (9 included)
+* **Insufficient** if they scored > 6 but less than 9. (9 included)
+* **Good** if they scored > 9 but less than 14. (14 included)
 * **Excellent** if they scored 15.
 * **Error** if participants enter a negative number or a number outside the range supported (outside 0 - 15)
 
