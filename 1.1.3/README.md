@@ -1,6 +1,7 @@
 # INTRO-CS-3 Algorithms-Introduction
 
-## Logical
+## Class Exercises
+### Logical
 On pen and paper, solve the logical exercises and give the expected output statement (true / false)
 ```
 ( true && true ) 
@@ -18,16 +19,16 @@ On pen and paper, solve the logical exercises and give the expected output state
 ( !false || false )
 ```
 
-## Comparison
+### Comparison
 Complete the exercises in the [repl.it](https://repl.it/@DebbieLy/Conditional-Exercise).
 
-## String Function
+### String Function
 Complete the exercises in the [repl.it](https://repl.it/@DebbieLy/String-exercise).
 
-## User Input
+### User Input
 Complete exercise in the [repl.it](https://repl.it/@DebbieLy/User-input-prompt).
 
-## Additional Exercises
+## Practice Exercises
 ### Part 1
 
 1. Open a repl.it Javascript page and call it Algorithms Introduction Exercise 1.
@@ -50,7 +51,7 @@ based on the conditions:
 ### Part 2
 
 1. Open a repl.it Javascript page and call it Algorithms Introduction Exercise 2.
-2. Write an algorithm to find the largest among three different numbers entered by the user.
+2. Write an algorithm to find the largest among 5 different numbers entered by the user.
 3. Print out the largest number to the console.
 
 ### Part 3
